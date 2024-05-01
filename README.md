@@ -10,7 +10,7 @@ In the root folder of your application, run the installer with the command:
 python3 -m mimic_replay.install
 ```
 
-**Please note that the installer will not work unless your MIMIC pipeline is running. For more information, see our [installation guide](https://github.com/MIMIC-replay/MIMIC/blob/main/README.md)
+**Please note that the installer will not work unless your MIMIC pipeline is running.** For more information, see our [installation guide](https://github.com/MIMIC-replay/MIMIC/blob/main/README.md)
 
 ## MIMIC Team
 [Louis Mascari](https://louis-mascari.com/) • Software Engineer • Knoxville, TN
