@@ -1,6 +1,6 @@
 ![MIMIC's Logo](https://drive.google.com/uc?export=download&id=1T-yxxqTpc6nv7nydOF5TJ1tTAgcJFfRE)
 
-Here is the source code for our installation package, which sets up and injects MIMIC's session replay recording functionality into your own application.
+Here is the source code for our installation package, which sets up and injects MIMIC's session recording functionality into your own application.
 You can download the [package](https://pypi.org/project/mimic-replay/) with the following command:
 ```terminal
 pip install mimic-replay
